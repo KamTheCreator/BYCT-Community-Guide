@@ -2,7 +2,8 @@
 
 This project is a simple Gmail clone built with HTML and CSS, incorporating Google Material Icons for a modern and familiar user interface. The clone mimics the layout and basic features of the Gmail web application, including a header, sidebar, and email list.
 
-<img width="1437" alt="Image" src="https://github.com/KamTheCreator/BasicEmailClient-/assets/105979723/fbc0c520-da33-4e81-a02b-411e7082df96">
+<img width="1437" alt="Image" src="https://github.com/KamTheCreator/BYCT-Community-Guide/assets/105979723/3f674648-53e6-4195-8efa-8c5c42976200">
+
 
 
 ## Project Overview
